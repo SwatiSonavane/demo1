@@ -1,0 +1,64 @@
+{
+  "logo": "https://www.condenast.com/images/conde-nast-logo-black.svg",
+  "logo_white": "https://www.condenast.com/images/conde-nast-logo-white.svg",
+  "url": "https://www.condenast.com/",
+  "menu": [
+    "About",
+    "Brands",
+    "Commercial",
+    "Entertainment",
+    "News",
+    "Careers",
+    "Colleges",
+    "Sustainability",
+    "Diversity"
+  ],
+  "social": [
+    "https://twitter.com/condenast",
+    "https://www.instagram.com/condenast/",
+    "https://www.linkedin.com/company/conde-nast"
+  ],
+
+  "footer": {
+    "footer_logo": "https://www.condenast.com/images/conde-nast-logo-white.svg",
+
+    "column1_address_line1": "Condé Nast New York HQ ",
+    "column1_address_line2": "1 World Trade Center",
+    "column1_address_line3": "New York, NY 10007, USA",
+
+    "column1_map_link": ["https://goo.gl/maps/vphY21xgAKWBj5mt9"],
+    "column1_telephone": ["+1 212-286-2860"],
+
+    "column1_email": ["communications@condenast.com"],
+    "column1_email_link": ["mailto:communications@condenast.com"],
+
+    "column2_address_line1": "Condé Nast London HQ",
+    "column2_address_line2": "The Adelphi, 1-11 John Adam Street",
+    "column2_address_line3": "London, WC2N 6HT, United Kingdom",
+
+    "column2_map_link": ["https://goo.gl/maps/mQk78x2N7Fo3WFdS8"],
+    "column2_telephone": ["+44 (0)20 7851 1800"],
+
+    "column2_email": ["communications@condenast.com"],
+    "column2_email_link": ["mailto:communications@condenast.com"],
+    "footer_social": [
+      "https://twitter.com/condenast",
+      "https://www.instagram.com/condenast/",
+      "https://www.linkedin.com/company/conde-nast"
+    ],
+
+    "footer_links": [
+      "User Agreement - Updated as of 1/1/21",
+      "Privacy Policy - Updated as of 1/1/21",
+      "Modern Slavery Statement",
+      "Tax Strategy",
+      "Codes Of Conduct",
+      "US Advertising T&Cs",
+      "Cookies Settings"
+    ],
+    "copyright_year": "2021"
+  },
+
+  "explore_text": "The Condé Code seeks to define our purpose, our beliefs and our commitment to ourselves and the world around us. Providing guiding principles and themes that unify us, it’s an aspirational vision for how we will evolve and grow together.",
+  "explore_link": "http://code.condenast.com/"
+}
